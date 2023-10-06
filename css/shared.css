@@ -1,0 +1,175 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap");
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+#main-header {
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0 5%;
+    background: linear-gradient(45deg, rgb(94, 93, 93), #323232, #2b2b2b);
+  }
+  
+  .logo {
+    font-size: 3rem;
+    font-weight: bold;
+    display: inline-block;
+    width: fit-content;
+  }
+  
+  .logo a {
+    font-stretch: normal;
+    text-indent: 0%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo .letter-c1 {
+    background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+  }
+  
+  .logo .letter-d {
+    background: linear-gradient(45deg, #ff9900, #00eaff, #3399ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+  }
+  
+  .logo .letter-c2 {
+    background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+  }
+  
+  nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin: 0 1rem;
+    display: inline-block;
+    list-style: none;
+    cursor: pointer;
+    position: relative;
+    color: #333;
+  }
+  
+  
+  nav ul li:after {
+    content: "";
+    width: 0;
+    height: 3px;
+    background: #2192ff;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+  }
+  nav ul li:hover::after {
+    width: 100%;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  
+  #main-header nav ul li a {
+    color: #00eaff;
+  }
+  
+  .menu-btn {
+    width: 3rem;
+    height: 3rem;
+    display: flex; /* chunka span none sematic inline elemnta boya baqat contentakay width dager dakat u hamu spanakan badway yak dabn ballam ema contanaraka ka mabastman la tage A dakain ba flex tawau ba kaef xoman daskare shene elemntakan bkain u btwanen line ladway laine (new line) spanakan da bnernen*/
+    flex-direction: column; /* ama bo awaya contentacan ka mabastman la spana lera har danayak bkaweta line nwe (line by line ) by defoult ama nrxakay la flexa row ballam ema daikain ba colomn*/
+    justify-content: space-around; /* ama bo awaya space la dawr har contente drust bkat mabastaman (span) akana*/
+    /* display: none; bo awya btn humbergraka dar nakawe la hamu device akan dabe tanha wa bkain la device screen bchukakan darbkawe awshesh la regay mediia daikaen */
+    display: none;
+  }
+  
+  .menu-btn span {
+    width: 100%; /* ama bo awya hamu widthe contener (parent ) warbgre*/
+    height: 3px; /* ballam lera barze xatakane span ba pexel be bashta tawaku nagore ba gorane screen yan widthe mobile aka*/
+    background-color: white;
+  }
+  
+  #side-drawer {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(29, 26, 27);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none; /* sarata display none ballam way le dakain ka click lasar buttene hambargraka kra awkat dar bkawet */
+    transition: 5s;
+  }
+  
+  /* side-drawer:target lera target bo awa bakar det katek click la linkaka dakret idyak zyad dabet bo urlaka aw check dakat agar id zyad bu yan bllen bange aw idya kra awa aw code run dabet */
+  
+  #side-drawer:target {
+    display: block;
+  }
+  
+  #side-drawer header {
+    height: 5rem;
+    display: flex;
+    justify-content: flex-end; /* bo awaya .la side drawer humbergraka bbata lay rast */
+    align-items: center; /* bo awya la headeraka logo u linkakan bkawna sar haman ast (xal) la tawary x u y*/
+    padding: 0 5%;
+  }
+  
+  #side-drawer ul {
+    list-style: none;
+    margin: 0;
+    padding: 4rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #side-drawer li {
+    margin: 1rem 0;
+  }
+  
+  #side-drawer a {
+    color: rgb(252, 252, 252);
+    font-size: 2rem;
+  }
+  
+
+
+  @media (max-width: 767px) {
+    #main-header nav {
+      display: none; /* bo shardnaway navigatinakaya la mobile*/
+    }
+  
+    .menu-btn {
+      /* bo awya agar deviceaka screen bchuk bu wak mobile u awana awkat buttone humbergraka darbkawe */
+      display: flex;
+    }
+  }
+
+  

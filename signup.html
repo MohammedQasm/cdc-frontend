@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="css/shared.css" />
+    <link rel="stylesheet" href="css/signup.css" />
+  </head>
+  <body>
+    <header id="main-header">
+      <div class="logo">
+        <a href="">
+          <span class="letter-c1">C</span>
+          <span class="letter-d">D</span>
+          <span class="letter-c2">C</span>
+        </a>
+      </div>
+      <nav>
+        <ul dir="rtl">
+          <li><a href="index.html">هەواڵ</a></li>
+          <li><a href="signup.html">خو تومارکردن</a></li>
+          <li><a href="">CDC تیم</a></li>
+          <li><a href="">خۆبەخشەکان</a></li>
+          <li><a href="">ئێلمنەرەکان</a></li>
+          <li><a href="">دەربارەی ئێمە</a></li>
+        </ul>
+      </nav>
+      <a href="#side-drawer" class="menu-btn">
+        <span></span>
+        <span></span>
+        <span></span>
+      </a>
+    </header>
+
+    <!-- tage aside zyart bo display crdne contente bakar de ka pewande ba batakawa habe ballam ema lera bo peshandane 2 linkaka bakare dahenen ka lanaw nav habun waku sideke zyada u katek divice gora bo mobile... -->
+
+    <aside id="side-drawer">
+      <!-- lera headerake tr drust dakain bo side-drawer agar mbanawe lawe back bkain yan lay bdain aw basha pewesta buttonek habe bo garanaway -->
+      <header>
+        <!-- lera la jegay link page ema id aw basha danusen la haman page tawaku bo aw basha bgwazretawa katek clicke le kra ballam dabe hash lapesh idyaka dabnen -->
+        <!-- lera tanha hashek # danusen bo away click kra rek bchetawa home yan bchetawa main page-->
+        <a href="#" class="menu-btn">
+          <span></span>
+          <span></span>
+          <span></span>
+        </a>
+      </header>
+      <nav>
+        <ul dir="rtl">
+          <li><a href="index.html">هەواڵ</a></li>
+          <li><a href="signup.html">خو تومارکردن</a></li>
+          <li><a href="">CDC تیم</a></li>
+          <li><a href="">خۆبەخشەکان</a></li>
+          <li><a href="">ئێلمنەرەکان</a></li>
+          <li><a href="">دەربارەی ئێمە</a></li>
+        </ul>
+      </nav>
+    </aside>
+    <main>
+      <form class="registration-form">
+        <h1>خۆتۆمارکردن</h1>
+        <div class="form-group">
+          <label for="username">:ناوی تەواو</label>
+          <input type="text" id="username" name="username" required />
+        </div>
+        <div class="form-group">
+          <label for="email">:ئیمەیڵ</label>
+          <input type="email" id="email" name="email" required />
+        </div>
+        <div class="form-group">
+          <label for="password">:پاسوۆرد</label>
+          <input type="password" id="password" name="password" required />
+        </div>
+        <div class="form-group">
+          <label for="confirm-password">:جەختکردنەوە لە پاسوۆرد</label>
+          <input
+            type="password"
+            id="confirm-password"
+            name="confirm-password"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="faculty">:فاکەڵتی</label>
+          <input type="text" id="faculty" name="faculty" required />
+        </div>
+
+        <div class="form-group">
+          <label for="department">:بەش</label>
+          <input type="text" id="department" name="department" required />
+        </div>
+
+        <div class="form-group">
+          <label for="stage">:قۆناغ</label>
+          <input type="text" id="stage" name="stage" required />
+        </div>
+
+        <div class="form-group">
+          <label for="mobile">:ژمارەی مۆبایل</label>
+          <input type="text" id="mobile" name="mobile" required />
+        </div>
+
+        <div class="form-group">
+          <label for="gender">:ڕەگەز</label>
+          <input type="text" id="gender" name="gender" required />
+        </div>
+
+        <div class="form-group">
+          <label for="previously ">previously volunteered? :</label>
+          <input type="text" id="previously " name="previously " required />
+        </div>
+
+        <div class="form-group">
+          <label for="skills-Text">skills Text</label>
+          <input type="text" id="skills-Text" name="skills-Text" required />
+        </div>
+        <button type="submit">تۆماربوون</button>
+      </form>
+    </main>
+  </body>
+</html>
