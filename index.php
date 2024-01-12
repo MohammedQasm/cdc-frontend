@@ -129,24 +129,21 @@
             class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
             style="background-color: rgba(0, 0, 0, 0.06); border: none"
           >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
-            >
+            <a href="#" class="text-decoration-none text-dark">
               <img
-                src="images/3.jpg"
+                src="images/11.jpg"
                 class="card-img-top"
                 style="min-height: 275px"
                 alt="..."
             /></a>
             <div class="card-body">
               <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
+                بەشداری كارای قوتابییانی خۆبەخشی زانكۆی سۆران لە بەرزڕاگرتنی
+                ڕۆژی ئاڵا
               </h5>
-
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
+              <p id="demo0" class="card-text text-end">
+                نەتەوەیی ئەرکی هەر تاکێکی نیشتیمانپەروەرە، بێ شک ئاڵای نەتەوەیی
+                جوانترین پیرۆزی ئەو نیشتیمانپەروەریەیە
               </p>
               <a
                 href="show-post/show-post.html"
@@ -170,24 +167,21 @@
             class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
             style="background-color: rgba(0, 0, 0, 0.06); border: none"
           >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
-            >
+            <a href="#" class="text-decoration-none text-dark">
               <img
-                src="images/3.jpg"
+                src="images/12.jpg"
                 class="card-img-top"
                 style="min-height: 275px"
                 alt="..."
             /></a>
             <div class="card-body">
               <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
+                پڕۆژەی چاندنی ١٠٠٠ دار لە زانكۆی سۆران دەستی پێكرد
               </h5>
-
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
+              <p></p>
+              <p id="demo1" class="card-text text-end">
+                ٦ی گەڵاڕێزانی ٢٠٢٣ یەكەمین هەنگاوی چاندنی دار لە ناو حەرەمی
+                زانكۆی سۆران چوە واری جێبەجێ كردنەوە.
               </p>
               <a
                 href="show-post/show-post.html"
@@ -196,347 +190,350 @@
               >
                 &#x2190; خۆێندنەوەی هەوا‌ڵ
               </a>
-
               <div class="text-end card-body cards-info"></div>
             </div>
             <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
+              <i class="fa-regular fa-calendar-days"></i> 3 mins
             </div>
           </div>
         </div>
         <div class="col">
-          <div
-            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
-            style="background-color: rgba(0, 0, 0, 0.06); border: none"
-          >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
+          <a href="#" class="text-decoration-none text-dark">
+            <div
+              class="card h-100 rounded-0 bg-opacity-75 border-bottom border-warning border-3"
+              style="background-color: rgba(0, 0, 0, 0.06); border: none"
             >
               <img
-                src="images/3.jpg"
+                src="images/7.jpg"
                 class="card-img-top"
                 style="min-height: 275px"
                 alt="..."
-            /></a>
-            <div class="card-body">
-              <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
-              </h5>
-
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
-              </p>
-              <a
-                href="show-post/show-post.html"
-                class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
-                style="border-radius: 8px"
-              >
-                &#x2190; خۆێندنەوەی هەوا‌ڵ
-              </a>
-
-              <div class="text-end card-body cards-info"></div>
-            </div>
-            <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
-            </div>
-          </div>
+              />
+              <div class="card-body">
+                <h5 class="card-title text-end">
+                  رەوتی بەرەنگاربوونەوەی تاک دژی لێکەوتە نەرێنیەکان لە سۆشیال
+                  میدیادا
+                </h5>
+                <p class="card-text text-end">
+                  ڕۆژی چوارشەممە، ٢٩ ی تشرینی دووەمی ٢٠٢٣، لە درێژەی
+                  چالاکییەکاندا سەنتەری پەرەپێدانی کار لە زانکۆی سۆران
+                  پانێلێکیان ڕێکخست بۆ قوتابیيانی بەشی دەروونزانی و ئینگلیزی(
+                  ئێواران )
+                </p>
+                <a
+                  href="show-post/show-post.html"
+                  class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
+                  style="border-radius: 8px"
+                >
+                  &#x2190; خۆێندنەوەی هەوا‌ڵ
+                </a>
+              </div>
+              <div class="p-3">
+                <i class="fa-regular fa-calendar-days"></i> 1.5 hours
+              </div>
+            </div></a
+          >
         </div>
         <div class="col">
-          <div
-            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
-            style="background-color: rgba(0, 0, 0, 0.06); border: none"
-          >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
+          <a href="#" class="text-decoration-none text-dark">
+            <div
+              class="card h-100 rounded-0 bg-opacity-75 border-bottom border-primary border-3"
+              style="background-color: rgba(0, 0, 0, 0.06); border: none"
             >
               <img
-                src="images/3.jpg"
+                src="images/8.jpg"
                 class="card-img-top"
                 style="min-height: 275px"
                 alt="..."
-            /></a>
-            <div class="card-body">
-              <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
-              </h5>
+              />
+              <div class="card-body">
+                <h5 class="card-title text-end">
+                  گفتوگۆی كراوەی قوتابییانی زانكۆی سۆران
+                </h5>
+                <p class="card-text text-end">
+                  ڕۆژی چوارشەممە ڕێکكەوتی ٢٩ی تشرینی دووەمی ٢٠٢٣، سەنتەری
+                  پەرەپێدانی کار بە هەماهەنگیی لەگەڵ گرووپی ڤەژین، گفتوگۆییەكی
+                  كراوەی هاوبەشیان ئەنجامدا دەربارەی (بە کلتوورکردنی خوێندنەوە).
+                </p>
 
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
-              </p>
-              <a
-                href="show-post/show-post.html"
-                class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
-                style="border-radius: 8px"
-              >
-                &#x2190; خۆێندنەوەی هەوا‌ڵ
-              </a>
-
-              <div class="text-end card-body cards-info"></div>
-            </div>
-            <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
-            </div>
-          </div>
+                <a
+                  href="show-post/show-post.html"
+                  class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
+                  style="border-radius: 8px"
+                >
+                  &#x2190; خۆێندنەوەی هەوا‌ڵ
+                </a>
+              </div>
+              <div class="p-3">
+                <i class="fa-regular fa-calendar-days"></i> 1.5 hours
+              </div>
+            </div></a
+          >
         </div>
         <div class="col">
-          <div
-            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
-            style="background-color: rgba(0, 0, 0, 0.06); border: none"
-          >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
+          <a href="#" class="text-decoration-none text-dark">
+            <div
+              class="card h-100 rounded-0 bg-opacity-75 border-bottom border-dark border-3"
+              style="background-color: rgba(0, 0, 0, 0.06); border: none"
             >
               <img
-                src="images/3.jpg"
+                src="images/9.jpg"
                 class="card-img-top"
                 style="min-height: 275px"
                 alt="..."
-            /></a>
-            <div class="card-body">
-              <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
-              </h5>
+              />
+              <div class="card-body">
+                <h5 class="card-title text-end">
+                  دیدار و گفتگۆی کراوەی قوتابیانی زانكۆی سۆران لەگەڵ پ. ی. د.
+                  ڕزگار سعید حسێن
+                </h5>
+                <p class="card-text text-end">
+                  یاریدەدەری سەرۆكی زانكۆ بۆ كاروباری قوتابییان سەبارەت بە
+                  پڕۆژە، بیرۆكە، كێشە و گیرو گرفت و بەدواداچونی زیاتر بۆ
+                  كاروباری قوتابیان ڕێكخرا.
+                </p>
 
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
-              </p>
-              <a
-                href="show-post/show-post.html"
-                class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
-                style="border-radius: 8px"
-              >
-                &#x2190; خۆێندنەوەی هەوا‌ڵ
-              </a>
+                <a
+                  href="show-post/show-post.html"
+                  class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
+                  style="border-radius: 8px"
+                >
+                  &#x2190; خۆێندنەوەی هەوا‌ڵ
+                </a>
+              </div>
+              <div class="p-3">
+                <i class="fa-regular fa-calendar-days"> 1.5h</i>
 
-              <div class="text-end card-body cards-info"></div>
-            </div>
-            <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div
-            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
-            style="background-color: rgba(0, 0, 0, 0.06); border: none"
+                <div class="fa-regular float-end fa-calendar-days">
+                  31/3/2202
+                </div>
+              </div>
+            </div></a
           >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
-            >
-              <img
-                src="images/3.jpg"
-                class="card-img-top"
-                style="min-height: 275px"
-                alt="..."
-            /></a>
-            <div class="card-body">
-              <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
-              </h5>
-
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
-              </p>
-              <a
-                href="show-post/show-post.html"
-                class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
-                style="border-radius: 8px"
-              >
-                &#x2190; خۆێندنەوەی هەوا‌ڵ
-              </a>
-
-              <div class="text-end card-body cards-info"></div>
-            </div>
-            <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div
-            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
-            style="background-color: rgba(0, 0, 0, 0.06); border: none"
-          >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
-            >
-              <img
-                src="images/3.jpg"
-                class="card-img-top"
-                style="min-height: 275px"
-                alt="..."
-            /></a>
-            <div class="card-body">
-              <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
-              </h5>
-
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
-              </p>
-              <a
-                href="show-post/show-post.html"
-                class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
-                style="border-radius: 8px"
-              >
-                &#x2190; خۆێندنەوەی هەوا‌ڵ
-              </a>
-
-              <div class="text-end card-body cards-info"></div>
-            </div>
-            <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div
-            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
-            style="background-color: rgba(0, 0, 0, 0.06); border: none"
-          >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
-            >
-              <img
-                src="images/3.jpg"
-                class="card-img-top"
-                style="min-height: 275px"
-                alt="..."
-            /></a>
-            <div class="card-body">
-              <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
-              </h5>
-
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
-              </p>
-              <a
-                href="show-post/show-post.html"
-                class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
-                style="border-radius: 8px"
-              >
-                &#x2190; خۆێندنەوەی هەوا‌ڵ
-              </a>
-
-              <div class="text-end card-body cards-info"></div>
-            </div>
-            <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div
-            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
-            style="background-color: rgba(0, 0, 0, 0.06); border: none"
-          >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
-            >
-              <img
-                src="images/3.jpg"
-                class="card-img-top"
-                style="min-height: 275px"
-                alt="..."
-            /></a>
-            <div class="card-body">
-              <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
-              </h5>
-
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
-              </p>
-              <a
-                href="show-post/show-post.html"
-                class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
-                style="border-radius: 8px"
-              >
-                &#x2190; خۆێندنەوەی هەوا‌ڵ
-              </a>
-
-              <div class="text-end card-body cards-info"></div>
-            </div>
-            <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div
-            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
-            style="background-color: rgba(0, 0, 0, 0.06); border: none"
-          >
-            <a
-              href="show-post/show-post.html"
-              class="text-decoration-none text-dark"
-            >
-              <img
-                src="images/3.jpg"
-                class="card-img-top"
-                style="min-height: 275px"
-                alt="..."
-            /></a>
-            <div class="card-body">
-              <h5 class="card-title text-end">
-                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
-              </h5>
-
-              <p id="demo" class="card-text text-end">
-                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
-                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
-              </p>
-              <a
-                href="show-post/show-post.html"
-                class="text-dark d-block w-75 mx-auto fw-bold text-decoration-none btn btn-outline-secondary text-d mt-4"
-                style="border-radius: 8px"
-              >
-                &#x2190; خۆێندنەوەی هەوا‌ڵ
-              </a>
-
-              <div class="text-end card-body cards-info"></div>
-            </div>
-            <div class="p-3">
-              <i class="fa-regular fa-calendar-days"> 1.5h</i>
-
-              <div class="fa-regular float-end fa-calendar-days">31/3/2202</div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
     <br /><br />
+    <!----------------------------------------------------  card  ------------------------------------------------------>
+
+    <div class="container">
+      <div class="row row-cols-1 row-cols-md-3 g-4 p-5">
+        <div class="col">
+          <div
+            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
+            style="background-color: rgba(0, 0, 0, 0.06); border: none"
+          >
+            <a
+              href="show-post/show-post.html"
+              class="text-decoration-none text-dark"
+            >
+              <img
+                src="images/3.jpg"
+                class="card-img-top"
+                style="min-height: 275px"
+                alt="..."
+            /></a>
+            <div class="card-body">
+              <h5 class="card-title text-end">
+                دیدارێك لە زانكۆی سۆران بەڕێوەچوو
+              </h5>
+
+              <p id="demo" class="card-text text-end">
+                چالاكییەكانیاندا سەنتەری پەرەپێدانی كار/ زانكۆی سۆران ڕۆژی
+                چوارشەممە ٢٢ی تشرینی دووەمی ٢٠٢٣، دیدارێكی بۆ قوتابیانی
+              </p>
+              <a
+                href="show-post/show-post.html"
+                class="text-dark d-block fw-bold text-decoration-none btn btn-dark btn-sm text-d float-end mt-4"
+              >
+                &#x2190; خۆێندنەوەی هەوا‌ڵ
+              </a>
+
+              <div class="text-end card-body cards-info"></div>
+            </div>
+            <div class="p-3">
+              <i class="fa-regular fa-calendar-days"></i> 3 mins
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div
+            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
+            style="background-color: rgba(0, 0, 0, 0.06); border: none"
+          >
+            <a href="#" class="text-decoration-none text-dark">
+              <img
+                src="images/11.jpg"
+                class="card-img-top"
+                style="min-height: 275px"
+                alt="..."
+            /></a>
+            <div class="card-body">
+              <h5 class="card-title text-end">
+                بەشداری كارای قوتابییانی خۆبەخشی زانكۆی سۆران لە بەرزڕاگرتنی
+                ڕۆژی ئاڵا
+              </h5>
+              <p id="demo0" class="card-text text-end">
+                نەتەوەیی ئەرکی هەر تاکێکی نیشتیمانپەروەرە، بێ شک ئاڵای نەتەوەیی
+                جوانترین پیرۆزی ئەو نیشتیمانپەروەریەیە
+              </p>
+              <a
+                href="show-post/show-post.html"
+                class="text-dark d-block fw-bold text-decoration-none btn btn-dark btn-sm text-d float-end mt-4"
+              >
+                &#x2190; خۆێندنەوەی هەوا‌ڵ
+              </a>
+
+              <div class="text-end card-body cards-info"></div>
+            </div>
+            <div class="p-3">
+              <i class="fa-regular fa-calendar-days"></i> 3 mins
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div
+            class="card h-100 rounded-0 bg-opacity-75 border-bottom border-danger border-3"
+            style="background-color: rgba(0, 0, 0, 0.06); border: none"
+          >
+            <a href="#" class="text-decoration-none text-dark">
+              <img
+                src="images/12.jpg"
+                class="card-img-top"
+                style="min-height: 275px"
+                alt="..."
+            /></a>
+            <div class="card-body">
+              <h5 class="card-title text-end">
+                پڕۆژەی چاندنی ١٠٠٠ دار لە زانكۆی سۆران دەستی پێكرد
+              </h5>
+              <p></p>
+              <p id="demo1" class="card-text text-end">
+                ٦ی گەڵاڕێزانی ٢٠٢٣ یەكەمین هەنگاوی چاندنی دار لە ناو حەرەمی
+                زانكۆی سۆران چوە واری جێبەجێ كردنەوە.
+              </p>
+              <a
+                href="show-post/show-post.html"
+                class="text-dark d-block fw-bold text-decoration-none btn btn-dark btn-sm text-d float-end mt-4"
+              >
+                &#x2190; خۆێندنەوەی هەوا‌ڵ
+              </a>
+
+              <div class="text-end card-body cards-info"></div>
+            </div>
+            <div class="p-3">
+              <i class="fa-regular fa-calendar-days"></i> 3 mins
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <a href="#" class="text-decoration-none text-dark">
+            <div
+              class="card h-100 rounded-0 bg-opacity-75 border-bottom border-warning border-3"
+              style="background-color: rgba(0, 0, 0, 0.06); border: none"
+            >
+              <img
+                src="images/7.jpg"
+                class="card-img-top"
+                style="min-height: 275px"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title text-end">
+                  رەوتی بەرەنگاربوونەوەی تاک دژی لێکەوتە نەرێنیەکان لە سۆشیال
+                  میدیادا
+                </h5>
+                <p class="card-text text-end">
+                  ڕۆژی چوارشەممە، ٢٩ ی تشرینی دووەمی ٢٠٢٣، لە درێژەی
+                  چالاکییەکاندا سەنتەری پەرەپێدانی کار لە زانکۆی سۆران
+                  پانێلێکیان ڕێکخست بۆ قوتابیيانی بەشی دەروونزانی و ئینگلیزی(
+                  ئێواران )
+                </p>
+                <a
+                  href="show-post/show-post.html"
+                  class="text-dark d-block fw-bold text-decoration-none btn btn-dark btn-sm text-d float-end mt-4"
+                >
+                  &#x2190; خۆێندنەوەی هەوا‌ڵ
+                </a>
+              </div>
+              <div class="p-3">
+                <i class="fa-regular fa-calendar-days"></i> 1.5 hours
+              </div>
+            </div></a
+          >
+        </div>
+        <div class="col">
+          <a href="#" class="text-decoration-none text-dark">
+            <div
+              class="card h-100 rounded-0 bg-opacity-75 border-bottom border-primary border-3"
+              style="background-color: rgba(0, 0, 0, 0.06); border: none"
+            >
+              <img
+                src="images/8.jpg"
+                class="card-img-top"
+                style="min-height: 275px"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title text-end">
+                  گفتوگۆی كراوەی قوتابییانی زانكۆی سۆران
+                </h5>
+                <p class="card-text text-end">
+                  ڕۆژی چوارشەممە ڕێکكەوتی ٢٩ی تشرینی دووەمی ٢٠٢٣، سەنتەری
+                  پەرەپێدانی کار بە هەماهەنگیی لەگەڵ گرووپی ڤەژین، گفتوگۆییەكی
+                  كراوەی هاوبەشیان ئەنجامدا دەربارەی (بە کلتوورکردنی خوێندنەوە).
+                </p>
+
+                <a
+                  href="show-post/show-post.html"
+                  class="text-dark d-block fw-bold text-decoration-none btn btn-dark btn-sm text-d float-end mt-4"
+                >
+                  &#x2190; خۆێندنەوەی هەوا‌ڵ
+                </a>
+              </div>
+              <div class="p-3">
+                <i class="fa-regular fa-calendar-days"></i> 1.5 hours
+              </div>
+            </div></a
+          >
+        </div>
+        <div class="col">
+          <a href="#" class="text-decoration-none text-dark">
+            <div
+              class="card h-100 rounded-0 bg-opacity-75 border-bottom border-dark border-3"
+              style="background-color: rgba(0, 0, 0, 0.06); border: none"
+            >
+              <img
+                src="images/9.jpg"
+                class="card-img-top"
+                style="min-height: 275px"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title text-end">
+                  دیدار و گفتگۆی کراوەی قوتابیانی زانكۆی سۆران لەگەڵ پ. ی. د.
+                  ڕزگار سعید حسێن
+                </h5>
+                <p class="card-text text-end">
+                  یاریدەدەری سەرۆكی زانكۆ بۆ كاروباری قوتابییان سەبارەت بە
+                  پڕۆژە، بیرۆكە، كێشە و گیرو گرفت و بەدواداچونی زیاتر بۆ
+                  كاروباری قوتابیان ڕێكخرا.
+                </p>
+
+                <a
+                  href="show-post/show-post.html"
+                  class="text-dark d-block fw-bold text-decoration-none btn btn-dark btn-sm text-d float-end mt-4"
+                >
+                  &#x2190; خۆێندنەوەی هەوا‌ڵ
+                </a>
+              </div>
+              <div class="p-3">
+                <i class="fa-regular fa-calendar-days"></i> 1.5 hours
+              </div>
+            </div></a
+          >
+        </div>
+      </div>
       <!-----------------------------------------------------  big imagr -------------------------------------------------------------->
 
       <div class="row">
